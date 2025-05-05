@@ -85,7 +85,7 @@ I create beginner-friendly course content and guide students in:
 
 - 📧 Email: [lopalopa2007@gmail.com]  
 - 🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rashmi-mishra-187734106/)  
-- 🧑‍💻 GitHub: [https://github.com/yourusername](https://github.com/lopalopa2007)
+- 🧑‍💻 GitHub: [https://github.com/yourusername](https://github.com/lopalopa)
 
 ---
 
