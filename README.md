@@ -7,8 +7,10 @@ From billing software to e-commerce systems, I’ve led and contributed to 5+ re
 
 Having also served as a software instructor, I’ve mentored many students in web development, helping them gain confidence in coding.
 
-🔹 Tech Skills: PHP, Java, React, Node.js, MySQL, MongoDB, WordPress, Laravel, Spring Boot, Django 
+🔹 Tech Skills: PHP, Java, React, Node.js, MySQL, MongoDB, WordPress, Laravel, Spring Boot, Django
+
 🔹 Tools: Git, Postman, Eclipse, VS Code, XAMPP, SQL Server 
+
 🔹 Soft Skills: Communication, Team Leadership, Project Ownership
 
 📩 I’m currently seeking opportunities as a **Full Stack or Backend Developer**. Let’s connect!
