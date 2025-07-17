@@ -12,7 +12,7 @@ Having also served as a software instructor, I’ve mentored many students in we
 🔹 Soft Skills: Communication, Team Leadership, Project Ownership
 
 📩 I’m currently seeking opportunities as a **Full Stack or Backend Developer**. Let’s connect!
----
+
 
 ## 👨‍💻 About Me
 
