@@ -23,6 +23,12 @@ Having also served as a software instructor, I’ve mentored many students in we
 - 📍 Based in: [Odisha,India]
 
 ---
+## 🔎 Current Status
+
+- 👩‍💻 Actively building full-stack projects using Laravel, React, and Spring Boot.
+- 🎯 Open to freelance, remote, or full-time opportunities as a Full Stack or Backend Developer.
+- 🎓 Teaching web technologies (PHP, Java, Laravel, etc.) to BCA/MCA students.
+- 💬 Always happy to collaborate on real-world or academic web projects.
 
 ## 💼 What I Do
 
