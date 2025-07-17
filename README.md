@@ -1,14 +1,23 @@
 # 👋 Hello, I'm Rashmi Prava Mishra
 
 Welcome to my GitHub profile!  
-I am a dedicated **Freelance Software Developer** and **Educator** with a passion for building modern web applications and teaching the next generation of tech professionals.
+I am a passionate Full Stack Developer with 10+ years of hands-on experience in building robust, scalable web applications using PHP, Java, React, Node.js, Laravel, Spring Boot, and WordPress.
 
+From billing software to e-commerce systems, I’ve led and contributed to 5+ real-world projects, solving business problems through clean architecture and user-friendly design. My work spans startups, academic institutions, NGOs, and midsize IT firms.
+
+Having also served as a software instructor, I’ve mentored many students in web development, helping them gain confidence in coding.
+
+🔹 Tech Skills: PHP, Java, React, Node.js, MySQL, MongoDB, WordPress, Laravel, Spring Boot, Django 
+🔹 Tools: Git, Postman, Eclipse, VS Code, XAMPP, SQL Server 
+🔹 Soft Skills: Communication, Team Leadership, Project Ownership
+
+📩 I’m currently seeking opportunities as a **Full Stack or Backend Developer**. Let’s connect!
 ---
 
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on several full-stack web applications for clients and students.
-- 🎓 I teach BCA and MCA students in web technologies like HTML, CSS, JavaScript, PHP, and Laravel.
+- 🎓 I can teach BCA and MCA students in web technologies like HTML, CSS, JavaScript, PHP, and Laravel.
 - 🌱 I’m always learning and exploring new technologies to improve my development skills.
 - 🤝 I love collaborating on educational platforms, startup ideas, and freelance projects.
 - 📍 Based in: [Odisha,India]
@@ -26,7 +35,7 @@ I help clients build:
 - **Student and Employee Management Systems**
   
 ### 🎓 Teaching & Mentoring
-I create beginner-friendly course content and guide students in:
+I create beginner-friendly course content and guide students to develop software projects in:
 - PHP & Laravel
 - Java & JSP/Servlet
 - React.js
