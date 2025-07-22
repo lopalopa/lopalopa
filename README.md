@@ -105,6 +105,9 @@ I create beginner-friendly course content and guide students to develop software
 - 🧑‍💻 GitHub: [https://github.com/yourusername](https://github.com/lopalopa)
 
 ---
+##📌 **Check out my tutorials on YouTube:**  
+➡️ [Excel and Cody by Rashmi Mam](https://www.youtube.com/channel/UCTyxBqdCe6h0mKEwi9fTKMw)
+
 
 ## 🏅 Fun Fact
 
